@@ -12,6 +12,8 @@
     "typescript": "^3.6.4"
   },
   "dependencies": {
+    "@types/assert": "^1.4.3",
+    "assert": "^2.0.0",
     "fp-ts": "^2.1.0"
   }
 }
